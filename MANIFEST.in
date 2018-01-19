@@ -1,0 +1,3 @@
+include versioneer.py
+include snap_ovs/_version.py
+include README.rst
